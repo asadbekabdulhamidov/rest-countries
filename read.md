@@ -51,3 +51,4 @@ color: orange;
 }
 
 h2 dan keyin kelgan barcha plar
+dfjnjdnjdnjdnjd

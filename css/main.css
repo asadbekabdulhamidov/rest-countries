@@ -1,15 +1,5 @@
-p {
-  color: red;
-}
-
-div p {
-  color: greenyellow;
-}
-
-h2 + p {
-  color: brown;
-}
-
-h2 ~ p {
-  color: cadetblue;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
